@@ -67,5 +67,4 @@ async function consumeAndSend() {
     }
 }
 
-
 consumeAndSend();
